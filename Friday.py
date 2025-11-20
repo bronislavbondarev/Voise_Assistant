@@ -99,7 +99,8 @@ def run():
 
 
 from Friday_funcs.py import lissenCommand, process_activation_text, check_activation_timeout, start_continuous_mode, stop_continuous_mode, listening_loop, play_audio, _play, RandomnayaPhrazaShort, RandomnayaPhrazaHello,
-RandomnayaPhrazaListen, RandomnayaPhrazaHowAreU, RandomnayaPhrazaThanks, press_hotkey, generate_speech_sync, isFile, SleepTime, speak_time, VolumeRecognize
+RandomnayaPhrazaListen, RandomnayaPhrazaHowAreU, RandomnayaPhrazaThanks, press_hotkey, generate_speech_sync, isFile, SleepTime, speak_time, VolumeRecognize,
+operawindAndOther, replace_words, CpuGpuInfo, gggg, giveCommandMine, calculator
 
 
 
