@@ -62,7 +62,7 @@ from ttkbootstrap.constants import *
 from ttkbootstrap.icons import Icon
 from ttkbootstrap.style import Style
 import re
-
+#Импортируем массив со словесным представлением чисел и строку с этими числами
 from Friday_data.py import words
 from Friday_data.py import numbers
 
