@@ -82,6 +82,7 @@ word_replacements = {
 is_listening = False
 listening_thread = None
 
+from Friday_window_setup.py import setupGUI
 
 # ==============Вывод текста в текстовых полях==============
 def print_to_gui(text, message, enter = True):
